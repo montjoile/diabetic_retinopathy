@@ -1,4 +1,4 @@
-# idabetic_retinopathy
+# Diabetic Retinopathy detection
 
 Code for the coursework "Identification of Diabetic Retinopathy in retinal fundus images using Convolutional Neural Networks".
 
